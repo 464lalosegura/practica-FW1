@@ -1,12 +1,12 @@
 # practica-FW1
-numero de control: 19120094
+numero de control:
 
-nombre completo: Eduardo Emiliano Segura Jimenez
+nombre completo: 
 
-curp: SEJE001122HPLGMDA4
+curp: 
 
-direccion de domicilio: San Jose Tilapa Coxcatlan Puebla 
+direccion de domicilio: 
 
-numero de telefono: 9531303948.
+numero de telefono: 
 
-correo institucional: 19120094@ajalpan.tecnm.mx
+correo institucional: 
